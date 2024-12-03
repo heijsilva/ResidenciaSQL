@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/27 00:03:26.000.415,=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/27 00:03:44.000.546,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Joao\Desktop\Residenciasql.dfm</Transaction>
+    <Transaction>2024/11/27 00:03:44.000.546,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Joao\Desktop\Residenciasql.pas</Transaction>
+    <Transaction>2024/11/27 00:04:21.000.764,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Joao\Desktop\ResidenciaSQL\Project1.dproj</Transaction>
+    <Transaction>2024/11/27 13:28:40.000.390,=C:\Users\Joao\Desktop\ResidenciaSQL\Unit1.pas</Transaction>
+    <Transaction>2024/11/27 15:01:00.000.350,C:\Users\Joao\Desktop\ResidenciaSQL\Unit1.dfm=C:\Users\Joao\Desktop\ResidenciaSQL\consulta.dfm</Transaction>
+    <Transaction>2024/11/27 15:01:00.000.350,C:\Users\Joao\Desktop\ResidenciaSQL\Unit1.pas=C:\Users\Joao\Desktop\ResidenciaSQL\consulta.pas</Transaction>
+  </Transactions>
+</BorlandProject>
